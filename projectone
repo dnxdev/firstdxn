@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+
+    body{
+      background-color: black;
+     
+    }
+
+    .lana{
+      height: 20%;
+      width: 80%;
+      margin: 0 auto;
+     
+    }
+
+    h1{
+      color: white;
+    }
+
+    a{
+      color: purple;
+      float: left;
+    }
+    p{
+        color: white;
+    }
+
+    ul{
+        color: white;
+    }
+   
+
+
+  </style>
+</head>
+<body>
+
+<div class="lana">
+
+
+  <h1>Álbuns</h1>
+  
+  <a href="site.html">Menu</a>
+  <br><Br>
+    <hr >
+
+    <ul>
+        <li>Blue Banisters (2021)</li>
+        <li>Chemtrails Over the Country Club (2021)</li>
+        <li>Norman Fucking Rockwell! (2019)</li>
+        <li>Lust for Life (2017)</li>
+        <li>Honeymoon (2015)</li>
+        <li>Ultraviolence (2014)</li>
+        <li>Maleficent (2014)</li>
+        <li>Die for me (2013)</li>
+        <li>Goodbye Kiss (2013)</li>
+        <li>Born to die (2012)</li>
+        <li>Paradise (2012)</li>
+        <li>Lana Del Rey A.K.A Lizzy Grant (2010)</li>
+        <li>Kill (2008)</li>
+        <li>No Kung Fu (2007)</li>
+        <li>Sirens (2006) </li>
+    </ul>
+    <a href="https://www.youtube.com/watch?v=Vn86aScbzKk">NOVO LANÇAMENTO: Lana Del Rey - Dealer 
+</a>
+<br>
+<br>
+<a href="https://www.youtube.com/watch?v=T5xcnjAG8pE">Lana Del Rey - Brooklyn Baby (Official Audio)
+</a>
+<br>
+<br>
+<img src="foto.jpeg" alt="Lana">
+
+<table border cellspacing=0 cellpadding=2>
+  <caption>Premios</caption>
+  <h1> PREMIOS </h1>
+  <tr>
+    <th bgcolor="purple">Ano</th>
+    <th bgcolor="purple">Premios</th>
+    <th bgcolor="purple">Categoria</th>
+    <th bgcolor="purple">Indicação</th>
+    <th bgcolor="purple">Resultado</th>
+  </tr>
+
+  <tr>
+    <td bgcolor=" #80c1ff" rowspan="3">2014</td>
+    <td bgcolor=" #80c1ff" rowspan="3">56° Grammy Awards</td>
+    
+    <td bgcolor=" #80c1ff">Melhor Álbum Pop Vocal</td>
+    <td bgcolor=" #80c1ff">Paradise (EP)</td>
+    <td bgcolor=" #80c1ff">Nomeada</td>
+  </tr>
+
+  <tr>
+    <td bgcolor=" #80c1ff">Melhor Canção Escrita para Mídia Visual</td>
+    <td bgcolor=" #80c1ff">	"Young and Beautiful"</td>
+    <td bgcolor=" #80c1ff">Nomeada</td>
+    
+  </tr>
+
+  <tr>
+    <td bgcolor=" #80c1ff">Melhor Gravação Remixada, Não-Clássica</td>
+    <td bgcolor=" #80c1ff">"Summertime Sadness"</td>
+    <td bgcolor=" #80c1ff">Venceu</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" bgcolor="#ecb3ff">2015</td>
+    <td bgcolor="#ecb3ff">Globo de Ouro</td>
+    <td bgcolor="#ecb3ff">Melhor Canção Original</td>
+    <td bgcolor="#ecb3ff">"Big Eyes"</td>
+    <td bgcolor="#ecb3ff">Indicado</td>
+  </tr>
+
+  <tr>
+    <td bgcolor="#ecb3ff">Critics' Choice Movie Awards</td>
+    <td bgcolor="#ecb3ff">Melhor Canção</td>
+    <td bgcolor="#ecb3ff">"Big Eyes"</td>
+    <td bgcolor="#ecb3ff">Indicado</td>
+  </tr>
+
+  <tr>
+    <td bgcolor=" #80c1ff">2016</td>
+    <td bgcolor=" #80c1ff">Billboard</td>
+    <td bgcolor=" #80c1ff">Women In Music - Trailblazer</td>
+    <td bgcolor=" #80c1ff">Lana Del Rey</td>
+    <td bgcolor=" #80c1ff">Venceu</td>
+  </tr>
+
+  <tr>
+    <td bgcolor=" #80c1ff">2018</td>
+    <td bgcolor=" #80c1ff">60th Grammy Awards</td>
+    <td bgcolor=" #80c1ff">Melhor Album Pop Vocal</td>
+    <td bgcolor=" #80c1ff">"Lust for Life"</td>
+    <td bgcolor=" #80c1ff">Indicado</td>
+  </tr>
+
+</table>
+
+<br><Br>
+   
+   
+</div>
+  
+</body>
+</html>
